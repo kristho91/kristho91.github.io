@@ -1,1 +1,1 @@
-# kristho91.github.io
+# Website for KrisThomsen.dk
